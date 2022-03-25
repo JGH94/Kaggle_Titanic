@@ -54,3 +54,4 @@
 
 * Kaggle의 대표적인 예제를 풀어보며 Kaggle의 접근 방법을 이해
 * Data의 시각화와 가공하는 방법을 이해
+* https://we-co.tistory.com/108   / 데이터 셋을 이용하여 수요 예측 예제
